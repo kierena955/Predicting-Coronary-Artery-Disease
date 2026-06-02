@@ -7,6 +7,7 @@ The aim was also to experiment in testing whether Multi-classification and a red
 
 ## Work in Progress
 Refining the current Front-end to create a finished product
+Allow users to add custom inputs for Frontend
 
 ## Dataset
 The following dataset was used:
@@ -28,3 +29,4 @@ Multi-Classification results are not included as the results found were deemed i
 *  **Recall** - 92% (Full dataset), 89% (Reduced Dataset)
 *  **Precision** - 81% (Full dataset), 90% (Reduced Dataset)
 *  **F1-Score** - 87% (Full dataset), 90% (Reduced Dataset)
+
