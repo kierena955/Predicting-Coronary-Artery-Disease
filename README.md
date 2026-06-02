@@ -6,8 +6,8 @@ This repository contains my final-year Computer Science dissertation project foc
 The aim was also to experiment in testing whether Multi-classification and a reduced dataset that mimics the capturable data in a single GP appointment to see explore the full capabilities of this dataset.
 
 ## Work in Progress
-Refining the current Front-end to create a finished product
-Allow users to add custom inputs for Frontend
+*  Refining the current Front-end to create a finished product
+*  Allow users to add custom inputs for Frontend
 
 ## Dataset
 The following dataset was used:
